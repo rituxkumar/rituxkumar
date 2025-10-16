@@ -46,5 +46,5 @@ Hi, I am Ritu Kumar, A Full Stack Developer.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rituxkumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![snake gif](https://github.com/rituxkumar/rituxkumar/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
