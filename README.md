@@ -14,6 +14,7 @@ Hi, I am Ritu Kumar, A Full Stack Developer.
 - 💬 Ask me about **React**, **Node.js**, **Next.js**, **System Design**, **Database Modeling**
 
 - 📫 How to reach me: **the.ritukumar@gmail.com**
+- ![snake gif](https://github.com/rituxkumar/rituxkumar/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituxkumar/) 
@@ -46,5 +47,5 @@ Hi, I am Ritu Kumar, A Full Stack Developer.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rituxkumar&icon=0&color=0)](https://visitcount.itsvg.in)
-![snake gif](https://github.com/rituxkumar/rituxkumar/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
