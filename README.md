@@ -90,7 +90,7 @@
 
 ## Languages
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp"/>
 
@@ -108,7 +108,7 @@
 
 ## Frontend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
@@ -128,7 +128,7 @@
 
 ## Backend
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 
@@ -146,7 +146,7 @@
 
 ## Cloud & DevOps
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=aws"/>
 
@@ -166,7 +166,7 @@
 
 ## AI / ML
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
