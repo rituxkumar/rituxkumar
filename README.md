@@ -332,7 +332,7 @@ AI-powered blogging platform where users can generate articles using Gemini AI a
 
 ### Repository
 
-> [Add your GitHub repository link here.](https://brainfuel-dun.vercel.app/)
+> (https://brainfuel-dun.vercel.app/)
 
 </details>
 
