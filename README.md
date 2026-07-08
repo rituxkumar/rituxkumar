@@ -425,3 +425,31 @@ Developer-focused typing platform that measures typing speed using real programm
 > **"I enjoy building scalable software that solves real-world problems through clean architecture, modern technologies, and continuous learning."**
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rituxkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituxkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=rituxkumar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rituxkumar&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+# 📈 Contribution Graph
+
+[![Ritu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rituxkumar&theme=tokyo-night)](https://github.com/rituxkumar)
+
+---
+
