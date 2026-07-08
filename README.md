@@ -1,51 +1,144 @@
+# Ritu Kumar
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ritu Kumar</h1>
-<h3 align="center">A Full Stack Developer Exploring the Depths of Code and Creativity</h3>
+> **Full-Stack Software Engineer \| AI Enthusiast \| Open Source
+> Learner**
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Ritu%20Kumar&fontSize=42&fontColor=ffffff"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;AI+Powered+Web+Applications;Open+to+Software+Engineering+Roles"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://ritukumar.site/">`{=html}Portfolio`</a>`{=html} •
+`<a href="https://github.com/rituxkumar">`{=html}GitHub`</a>`{=html} •
+`<a href="https://www.linkedin.com/in/rituxkumar/">`{=html}LinkedIn`</a>`{=html}
+• `<a href="mailto:the.ritukumar@gmail.com">`{=html}Email`</a>`{=html} •
+`<a href="https://leetcode.com/u/Nh19yFiScj/">`{=html}LeetCode`</a>`{=html}
+```{=html}
+</p>
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rituxkumar&label=Profile%20views&color=0e75b6&style=flat" alt="rituxkumar" /> </p>
+------------------------------------------------------------------------
 
-# 💫 About Me:
-Hi, I am Ritu Kumar, A Full Stack Developer.  
+# About Me
 
-- 🌱 I’m actively learning and building with **Next.js**, **TypeScript**, **Prisma**, **AWS**,*
+-   🎓 B.Tech CSE (2022--2026)
+-   💻 Full-Stack Developer focused on scalable products.
+-   🤖 Interested in AI-powered applications.
+-   ☁️ Experience with AWS, Vercel, MongoDB, PostgreSQL.
+-   🚀 Open to Software Engineer and Full-Stack Developer roles.
 
-- 💬 Ask me about **React**, **Node.js**, **Next.js**, **System Design**, **Database Modeling**
+------------------------------------------------------------------------
 
-- 📫 How to reach me: **the.ritukumar@gmail.com**
-- ![snake gif](https://github.com/rituxkumar/rituxkumar/blob/output/github-snake-dark.svg)
+# Tech Stack
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituxkumar/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rituxkumar) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:the.ritukumar@gmail.com) 
+**Languages**
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+`C++` `JavaScript` `TypeScript` `Python` `SQL`
 
+**Frontend**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rituxkumar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rituxkumar&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rituxkumar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+React • Next.js • Tailwind CSS
 
----
+**Backend**
 
-[![](https://visitcount.itsvg.in/api?id=rituxkumar&icon=0&color=0)](https://visitcount.itsvg.in)
+Node.js • Express • NextAuth
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Databases**
+
+MongoDB • PostgreSQL • MySQL • Prisma
+
+------------------------------------------------------------------------
+
+# Featured Projects
+
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}🩸 Blood Donation Platform`</b>`{=html}
+```{=html}
+</summary>
+```
+Next.js + MongoDB platform connecting donors and hospitals with secure
+authentication, role-based access, and blood request management.
+
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}🤖 BrainFuel`</b>`{=html}
+```{=html}
+</summary>
+```
+AI-powered blogging platform using Gemini API with ImageKit integration
+and moderation.
+
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<b>`{=html}⌨️ CodeType`</b>`{=html}
+```{=html}
+</summary>
+```
+Competitive coding typing platform with WPM, accuracy, and leaderboard.
+
+```{=html}
+</details>
+```
+
+------------------------------------------------------------------------
+
+# GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=rituxkumar&show_icons=true&theme=tokyonight)
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rituxkumar&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=rituxkumar&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# Current Focus
+
+``` yaml
+Learning:
+  - System Design
+  - AI Engineering
+Building:
+  - Full Stack Products
+Exploring:
+  - Cloud & DevOps
+OpenTo:
+  - Software Engineer
+  - Full Stack Developer
+```
+
+------------------------------------------------------------------------
+
+> "Build products that solve real-world problems."
