@@ -431,4 +431,25 @@ Developer-focused typing platform that measures typing speed using real programm
 [![Ritu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rituxkumar&theme=tokyo-night)](https://github.com/rituxkumar)
 
 ---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rituxkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituxkumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rituxkumar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 
