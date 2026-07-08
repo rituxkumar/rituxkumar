@@ -1,67 +1,77 @@
-# Ritu Kumar
+::: {align="center"}
+# Hi 👋 I'm Ritu Kumar
 
-> **Full-Stack Software Engineer \| AI Enthusiast \| Open Source
-> Learner**
+`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6a5acd&text=Ritu%20Kumar&fontColor=ffffff&fontSize=45"/>`{=html}
+
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;AI+Powered+Web+Applications;Open+to+Software+Engineering+Roles" />`{=html}
 
 ```{=html}
-<p align="center">
+<p>
 ```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Ritu%20Kumar&fontSize=42&fontColor=ffffff"/>`{=html}
+`<a href="https://github.com/rituxkumar">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/rituxkumar/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>`{=html}`</a>`{=html}
+`<a href="https://ritukumar.site/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge"/>`{=html}`</a>`{=html}
+`<a href="mailto:the.ritukumar@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>`{=html}`</a>`{=html}
 ```{=html}
 </p>
 ```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;AI+Powered+Web+Applications;Open+to+Software+Engineering+Roles"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://ritukumar.site/">`{=html}Portfolio`</a>`{=html} •
-`<a href="https://github.com/rituxkumar">`{=html}GitHub`</a>`{=html} •
-`<a href="https://www.linkedin.com/in/rituxkumar/">`{=html}LinkedIn`</a>`{=html}
-• `<a href="mailto:the.ritukumar@gmail.com">`{=html}Email`</a>`{=html} •
-`<a href="https://leetcode.com/u/Nh19yFiScj/">`{=html}LeetCode`</a>`{=html}
-```{=html}
-</p>
-```
+![](https://komarev.com/ghpvc/?username=rituxkumar&style=for-the-badge&color=blueviolet)
+:::
 
 ------------------------------------------------------------------------
 
-# About Me
+# 🚀 About Me
 
 -   🎓 B.Tech CSE (2022--2026)
--   💻 Full-Stack Developer focused on scalable products.
--   🤖 Interested in AI-powered applications.
--   ☁️ Experience with AWS, Vercel, MongoDB, PostgreSQL.
--   🚀 Open to Software Engineer and Full-Stack Developer roles.
+-   💼 Full Stack Developer
+-   🤖 Building AI-powered products
+-   🌱 Learning System Design & Cloud
+-   💬 Open to Software Engineering & Full Stack roles
 
 ------------------------------------------------------------------------
 
-# Tech Stack
+# 💻 Tech Stack
 
-**Languages**
+### Languages
 
-`C++` `JavaScript` `TypeScript` `Python` `SQL`
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,mysql"/>`{=html}
+```{=html}
+</p>
+```
+### Frontend
 
-**Frontend**
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>`{=html}
+```{=html}
+</p>
+```
+### Backend & Database
 
-React • Next.js • Tailwind CSS
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma"/>`{=html}
+```{=html}
+</p>
+```
+### Cloud & Tools
 
-**Backend**
-
-Node.js • Express • NextAuth
-
-**Databases**
-
-MongoDB • PostgreSQL • MySQL • Prisma
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,vercel"/>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
-# Featured Projects
+# ⭐ Featured Projects
 
 ```{=html}
 <details>
@@ -73,8 +83,10 @@ MongoDB • PostgreSQL • MySQL • Prisma
 ```{=html}
 </summary>
 ```
-Next.js + MongoDB platform connecting donors and hospitals with secure
-authentication, role-based access, and blood request management.
+-   Next.js + MongoDB + Tailwind CSS
+-   Secure Authentication
+-   Donor/Hospital Dashboard
+-   Cloudinary Integration
 
 ```{=html}
 </details>
@@ -89,8 +101,7 @@ authentication, role-based access, and blood request management.
 ```{=html}
 </summary>
 ```
-AI-powered blogging platform using Gemini API with ImageKit integration
-and moderation.
+AI Blog Platform using Gemini API, React, Express and MongoDB.
 
 ```{=html}
 </details>
@@ -105,7 +116,7 @@ and moderation.
 ```{=html}
 </summary>
 ```
-Competitive coding typing platform with WPM, accuracy, and leaderboard.
+Developer typing platform with WPM, Accuracy and Leaderboard.
 
 ```{=html}
 </details>
@@ -113,18 +124,24 @@ Competitive coding typing platform with WPM, accuracy, and leaderboard.
 
 ------------------------------------------------------------------------
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rituxkumar&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=rituxkumar&show_icons=true&theme=tokyonight)
 
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rituxkumar&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=rituxkumar&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=rituxkumar&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rituxkumar&layout=compact&theme=tokyonight)
 
 ------------------------------------------------------------------------
 
-# Current Focus
+# 📈 Contribution Graph
+
+[![Activity
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=rituxkumar&theme=tokyo-night)](https://github.com/rituxkumar)
+
+------------------------------------------------------------------------
+
+# 🧠 Current Focus
 
 ``` yaml
 Learning:
@@ -133,7 +150,8 @@ Learning:
 Building:
   - Full Stack Products
 Exploring:
-  - Cloud & DevOps
+  - AWS
+  - DevOps
 OpenTo:
   - Software Engineer
   - Full Stack Developer
@@ -141,35 +159,10 @@ OpenTo:
 
 ------------------------------------------------------------------------
 
-> "Build products that solve real-world problems."
-name: Generate Snake
+::: {align="center"}
+### Connect with me
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+GitHub • LinkedIn • Portfolio • Email
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rituxkumar
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rituxkumar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituxkumar&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rituxkumar&theme=tokyonight)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rituxkumar&theme=tokyo-night)](https://github.com/rituxkumar)
-![](https://komarev.com/ghpvc/?username=rituxkumar&style=for-the-badge&color=blueviolet)
+`<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=6a5acd"/>`{=html}
+:::
