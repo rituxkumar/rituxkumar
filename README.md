@@ -40,35 +40,40 @@
 
 # 💫 About Me
 
-```cpp
-class RituKumar {
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-public:
+<img align="right" width="350" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Developer&fontSize=18&lineCount=3&theme=github_dark"/>
 
-    string role = "Full Stack Developer";
+### 👋 Hi, I'm Ritu Kumar
 
-    vector<string> interests = {
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Backend Development",
-        "Cloud Computing",
-        "System Design"
-    };
+💻 Passionate **Full Stack Developer** specializing in building modern, scalable web applications.
 
-    vector<string> tech = {
-        "Next.js",
-        "React",
-        "TypeScript",
-        "Node.js",
-        "MongoDB",
-        "PostgreSQL"
-    };
+🚀 Currently focused on **Next.js**, **TypeScript**, **Backend Engineering**, and **AI-powered applications**.
 
-    string currentFocus =
-        "Building scalable AI-powered web applications";
+🎯 I enjoy solving real-world problems through clean architecture and intuitive user experiences.
 
-};
-```
+🌱 Currently Learning
+
+- System Design
+- Cloud Computing (AWS)
+- AI Engineering
+- Scalable Backend Architecture
+
+💼 Open To
+
+- Software Engineer
+- Full Stack Developer
+- Backend Developer
+- Frontend Developer
+- AI Integrated Web Applications
+
+⚡ Fun Fact
+
+> "I love turning ideas into products that people actually use."
+
+<br clear="both">
+
+---
 
 ---
 
